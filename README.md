@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Step4: Run the below command to run the tool
 ```cmd
-python main.py test_videos/sample.mp4
+python main.py test_videos/sample_1.mp4
 ```
 
 ## 🧪 Sample Output
