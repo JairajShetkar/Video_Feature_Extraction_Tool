@@ -9,16 +9,21 @@ This Python tool extracts visual and temporal features from a local video file u
 - Text Detection (OCR)
 - Object vs. Person Dominance using YOLO
 
-## 📦 Requirements
-```terminal 
-pip install opencv-python pytesseract numpy torch torchvision torchaudio ultralytics
+## Below are the steps to run the file locally:
+
+## Step1: Download the files in zip format and extract.
+
+#### Note:- Ensure Python 3.8+ version is installed on the computer
+## 📦 Run the Requirements.txt file
+```cmd 
+pip install -r requirements.txt
 ```
 
 Install Tesseract OCR:
 - Windows: https://github.com/tesseract-ocr/tessdoc/blob/main/Installation.md
 
-## 🚀 Usage
-```bash
+## 🚀 Command to run the tool
+```cmd
 python main.py test_videos/sample.mp4
 ```
 
