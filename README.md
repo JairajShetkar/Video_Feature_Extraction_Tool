@@ -14,15 +14,15 @@ This Python tool extracts visual and temporal features from a local video file u
 ## Step1: Download the files in zip format and extract.
 
 #### Note:- Ensure Python 3.8+ version is installed on the computer
-## 📦 Run the Requirements.txt file
+## Step2: Run the requirements.txt file
 ```cmd 
 pip install -r requirements.txt
 ```
 
-Install Tesseract OCR:
+## Step3: Install Tesseract OCR:
 - Windows: https://github.com/tesseract-ocr/tessdoc/blob/main/Installation.md
 
-## 🚀 Command to run the tool
+## Step4: Run the below command to run the tool
 ```cmd
 python main.py test_videos/sample.mp4
 ```
