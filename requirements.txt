@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+pandas
+numpy
+torch
+torchvision
+torchaudio
+yolov5
+matplotlib
+seaborn
+ultralytics
